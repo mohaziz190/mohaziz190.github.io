@@ -5,3 +5,23 @@
 layout: default
 ---
 
+    <section id="about">
+        <h2>About Us</h2>
+		<p>We are passionate about bringing you the finest Manuka honey, crafted with respect for nature and a commitment to quality. Our journey began...</p>
+        <p>Welcome to Manuka Honey, where quality meets purity. Our company is dedicated to providing the finest Manuka honey and Manuka-based products.</p>
+        <p>Founded with a commitment to sustainability and natural health, we carefully source our honey from New Zealand's pristine landscapes, ensuring that each jar contains the essence of nature's goodness.</p>
+        <p>Explore our range of products and discover the benefits of Manuka honey for yourself.</p>
+		
+    </section>
+    
+    <section id="products">
+        <h2>Discover Our Collection</h2>
+		<p>Pure, raw Manuka honey straight from the hive. Rich in antioxidants and known for its healing properties.</p>
+		<p>Experience the luxurious benefits of Manuka honey in our range of skincare and beauty products. Naturally nourishing and revitalizing.</p>
+        
+		 {% for product in site.products %}
+			{% include product-index.html %}
+		 {% endfor %}
+		
+    </section>
+	

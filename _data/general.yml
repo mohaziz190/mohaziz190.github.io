@@ -1,6 +1,6 @@
-user_mode: true
-shop_mode: true
-dark_mode: true
-enable_search: true
+user_mode: false
+shop_mode: false
+dark_mode: false
+enable_search: false
 login_url: "#"
 signup_url: "#"
