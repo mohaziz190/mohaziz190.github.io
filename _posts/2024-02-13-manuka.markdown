@@ -1,11 +1,10 @@
 ---
 layout: post-layout
-title:  "عسل المانوكا والجروح"
-description: مقال مفيد عن فوائد عسل المانوكا في علاج الجروح
+title:  "manuka benefits"
+description: about manuka benefits
 date:   2024-02-13 16:32:50 +0200
 image: /assets/images/blogs/2.jpg
 categories: manuka
 ---
-اثبتت الابحاث قدره** المانوكا **على شفاء الجروح بفعاليه 
-نظرا لاحتوائها على مضادات حيويه طبيعيه
-
+Manuka honey is a home remedy you can use as a natural antibiotic. You can eat Manuka honey to help ease a sore throat or improve digestion or apply it to your skin to help heal minor cuts and acne. 
+Manuka honey is used as a natural ointment for wounds of all kinds.
