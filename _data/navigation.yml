@@ -1,6 +1,8 @@
 menu:
   - title: Home
     url: /
+  - title: Shop
+    url: /shop/  
   - title: Quality
     url: /quality/
   - title: Contact
